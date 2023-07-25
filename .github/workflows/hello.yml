@@ -1,7 +1,5 @@
 name: Lint
-on:
-  check_run:
-    types: [rerequested]
+on: workflow_dispatch
 jobs:
   read-data:
     name: "Read data"
