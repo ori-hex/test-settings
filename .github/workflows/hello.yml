@@ -1,7 +1,5 @@
 name: Lint
-on:
-  check_run:
-    types: [rerequested]
+on: pull_request
 jobs:
   read-data:
     name: "Read data"
