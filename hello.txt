@@ -1,2 +1,4 @@
 hi
 Added line
+Wow - so new
+For tests
